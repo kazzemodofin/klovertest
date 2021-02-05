@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="SpinWheel">
+        <attr name="background_color" format="color"/>
+        <attr name="arrow_image" format="reference"/>
+        <attr name="square_layout" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="screen_background">#040D14</color>
+    <color name="wheel_darker_background">#040D14</color>
+    <color name="wheel_lighter_background">#141A1E</color>
+    <color name="pink">#FDAEB6</color>
+
+</resources>
